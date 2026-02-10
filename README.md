@@ -4,7 +4,7 @@
 
 this repository is created to Learning purpose
 
-with a strong focus on data science angle
+with a strong focus on data science And Data Analytics angle
 
 ##  Introduction
 
